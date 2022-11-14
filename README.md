@@ -1,4 +1,4 @@
-# React / Redux Toolkit / Typescript
+# React / Redux / Typescript
 
 ![Screenshot](rrts.png)
 
